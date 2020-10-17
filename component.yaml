@@ -4,7 +4,7 @@ metadata:
   name: ESB
   description: EBS Project
   annotations:
-    jenkins.io/github-folder: job/esb
+    jenkins.io/github-folder: backstagev1/esbv1
 spec:
   type: service
   lifecycle: production
