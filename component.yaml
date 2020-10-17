@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: ESB
   description: EBS Project
-   annotations:
+  annotations:
     jenkins.io/github-folder: backstage/test
 spec:
   type: service
