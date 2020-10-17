@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: ESB
   description: EBS Project
+  annotations:
+    jenkins.io/github-folder: backstage/esb
 spec:
   type: service
   lifecycle: production
